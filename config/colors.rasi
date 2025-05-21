@@ -1,0 +1,7 @@
+* {
+    BG:    #1a1b26ff;
+    BG-A:  #32344aff;
+    FG:    #a9b1d6ff;
+    ACC:   #7aa2f7ff;
+    UGT:   #f7768eff;
+}
